@@ -25,18 +25,21 @@ Predict whether a user will purchase a product based on age and salary using Soc
 4. Model Training
 5. Prediction
 
-##  Model Performance
+## Model Evaluation using ROC Curve
 
- Accuracy: 0.90
+The performance of the machine learning model was evaluated using the Receiver Operating Characteristic (ROC) curve.
 
- Class-wise Performance:
- - Class 0: Precision = 0.94, Recall = 0.90, F1-score = 0.92
- - Class 1: Precision = 0.83, Recall = 0.89, F1-score = 0.86
+### Key Insights
+- The ROC curve shows how well the model distinguishes between classes  
+- A curve closer to the top-left corner indicates better performance  
+- The Area Under the Curve (AUC) represents overall model performance  
 
-Overall Performance:
-- Macro Avg F1-score: 0.89
-- Weighted Avg F1-score: 0.90
+### Results
+- Model achieved good classification performance  
+- AUC Score: 0.90   
 
+### Visualization
+- ROC Curve
 
 ##  How to Run
 1. Clone repository
