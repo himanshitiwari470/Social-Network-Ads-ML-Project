@@ -1,31 +1,31 @@
 # Social Network Ads Prediction (ML Project)
 
-## 📌 Problem Statement
+##  Problem Statement
 Predict whether a user will purchase a product based on age and salary using Social Network Ads dataset.
 
-## 📊 Dataset
+##  Dataset
 - Source: Kaggle / UCI (mention if known)
 - Features: Age, Estimated Salary
 - Target: Purchased (0/1)
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 
-## 🧠 Model Used
+##  Model Used
 - Logistic Regression
 
-## 📈 Workflow
+##  Workflow
 1. Data Cleaning
 2. Exploratory Data Analysis (EDA)
 3. Feature Scaling
 4. Model Training
 5. Prediction
 
-## 🎯 Model Performance
+##  Model Performance
 
  Accuracy: 0.90
 
@@ -38,7 +38,7 @@ Overall Performance:
 - Weighted Avg F1-score: 0.90
 
 
-## 🚀 How to Run
+##  How to Run
 1. Clone repository
 2. Open notebook
 3. Run all cells
