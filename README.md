@@ -4,7 +4,7 @@
 Predict whether a user will purchase a product based on age and salary using Social Network Ads dataset.
 
 ##  Dataset
-- Source: Kaggle / UCI (mention if known)
+- Source: Kaggle / UCI 
 - Features: Age, Estimated Salary
 - Target: Purchased (0/1)
 
