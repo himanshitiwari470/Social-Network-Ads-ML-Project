@@ -41,9 +41,9 @@ The performance of the machine learning model was evaluated using the Receiver O
            0       0.94      0.90      0.92        52
            1       0.83      0.89      0.86        28
 
- #### accuracy                          0.90        80
- #### macro avg     0.89      0.90      0.89        80
- #### weighted avg  0.90      0.90      0.90        80
+       accuracy                         0.90        80
+      macro avg     0.89      0.90      0.89        80
+     weighted avg   0.90      0.90      0.90        80
 
 
 ### Visualization
